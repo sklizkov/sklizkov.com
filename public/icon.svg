@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>512</title>
+    <g id="512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Head" transform="translate(64.000000, 32.000000)">
+            <g id="face" transform="translate(32.000000, 160.000000)">
+                <g id="skin_darken" transform="translate(192.000000, 0.000000)" fill="#CE9074">
+                    <rect id="Rectangle" x="96" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="96" width="32" height="32"></rect>
+                </g>
+                <g id="skin_main" transform="translate(32.000000, 0.000000)" fill="#E1A17A">
+                    <rect id="Rectangle" x="64" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="96" width="32" height="32"></rect>
+                </g>
+                <g id="skin_lighten" fill="#EBAD8F">
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="224" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="192" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="eye" transform="translate(160.000000, 128.000000)" fill="#4D676C">
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="eye" transform="translate(64.000000, 128.000000)" fill="#4D676C">
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <g id="hair">
+                <g id="darken" transform="translate(0.000000, 96.000000)" fill="#C71D5D">
+                    <rect id="Rectangle" x="352" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="352" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="352" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="352" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="main" transform="translate(0.000000, 96.000000)" fill="#ED206D">
+                    <rect id="Rectangle" x="32" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="224" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="224" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="64" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="32" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="96" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="128" width="32" height="32"></rect>
+                </g>
+                <g id="lighten_1" transform="translate(32.000000, 64.000000)" fill="#F7367F">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="224" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="256" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="lighten_1.5" transform="translate(320.000000, 64.000000)" fill="#EF1769">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="lighten_2" transform="translate(64.000000, 32.000000)" fill="#FF5595">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="192" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="160" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="128" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="96" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="64" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="lighten_3" transform="translate(96.000000, 0.000000)" fill="#FF8CB7">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="lighten_3.5" transform="translate(160.000000, 0.000000)" fill="#FF78AA">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Head" transform="translate(64.000000, 32.000000)">
+            <g id="Face" transform="translate(32.000000, 160.000000)">
+                <polygon id="face" fill="#FFAF87" points="-7.10542736e-15 32 32 32 32 0 224 0 224 64 256 64 256 128 288 128 288 96 320 96 320 192 288 192 288 256 256 256 256 288 224 288 224 320 64 320 64 288 32 288 32 256 0 256"></polygon>
+                <g id="Light" fill="#FFFFFF" fill-opacity="0.25">
+                    <rect id="Rectangle" x="64" y="288" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="32" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="32" width="32" height="224"></rect>
+                    <rect id="Rectangle" x="32" y="0" width="32" height="32"></rect>
+                </g>
+                <g id="Dark" transform="translate(192.000000, 0.000000)" fill="#000000" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="64"></rect>
+                    <rect id="Rectangle" x="32" y="64" width="32" height="64"></rect>
+                    <polygon id="Path" points="64 128 128 128 128 192 96 192 96 256 64 256"></polygon>
+                    <rect id="Rectangle" x="32" y="256" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="0" y="288" width="32" height="32"></rect>
+                </g>
+                <g id="Eyes" transform="translate(64.000000, 128.000000)" fill="#000000">
+                    <rect id="eye" x="96" y="0" width="32" height="64"></rect>
+                    <rect id="eye" x="0" y="0" width="32" height="64"></rect>
+                </g>
+            </g>
+            <g id="Hair">
+                <polygon id="hair" fill="#FF0087" points="32 256 0 256 0 96 32 96 32 64 64 64 64 32 96 32 96 0 192 0 192 32 288 32 288 64 352 64 352 96 384 96 384 224 352 224 352 256 320 256 320 288 288 288 288 224 256 224 256 160 64 160 64 192 32 192"></polygon>
+                <g id="Dark" transform="translate(0.000000, 96.000000)" fill="#000000" fill-opacity="0.15">
+                    <rect id="Rectangle" x="0" y="128" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="288" y="160" width="32" height="32"></rect>
+                    <rect id="Rectangle" x="320" y="128" width="32" height="32"></rect>
+                    <polygon id="Path-2" points="352 128 384 128 384 0 320 0 320 32 352 32"></polygon>
+                </g>
+                <g id="Light_1" transform="translate(32.000000, 64.000000)" fill="#FFFFFF" fill-opacity="0.2">
+                    <rect id="Rectangle" x="0" y="0" width="288" height="32"></rect>
+                </g>
+                <g id="Light_2" transform="translate(64.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0.3">
+                    <polygon id="Rectangle" points="0 32 96.6642024 32 96 -2.22044605e-16 128 2.22044605e-16 128 32 224 32 224 64 0 64"></polygon>
+                </g>
+                <g id="Light_3" transform="translate(96.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0.5">
+                    <rect id="Rectangle" x="0" y="0" width="64" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
