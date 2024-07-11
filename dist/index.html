@@ -17,33 +17,162 @@
     <meta name="theme-color" content="#191919" media="(prefers-color-scheme: dark)" />
 
     <title>Hi there 👋</title>
-    <script type="module" crossorigin src="/assets/index-CWxbtiN2.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BpiPkrMc.css">
+
+    <style>:root {
+  --color-gray-900: #191919;
+  --color-gray-800: #353535;
+  --color-gray-700: #525252;
+  --color-gray-600: #6E6E6E;
+  --color-gray-500: #8A8A8A;
+  --color-gray-400: #A6A6A6;
+  --color-gray-300: #C3C3C3;
+  --color-gray-200: #DFDFDF;
+  --color-gray-100: #FBFBFB;
+
+  --color-primary: #3A1BF2;
+
+  --font-family: monospace;
+  --font-size: 14px;
+  --line-height: 1.5;
+
+  --background-color: var(--color-gray-100);
+  --text-color: var(--color-gray-900);
+  --select-color: var(--color-gray-200);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-primary: #3356F1;
+
+    --background-color: var(--color-gray-900);
+    --text-color: var(--color-gray-200);
+    --select-color: var(--color-gray-500);
+  }
+}
+
+::-moz-selection {
+  background-color: var(--select-color);
+}
+
+::selection {
+  background-color: var(--select-color);
+}
+
+*,
+*:before,
+*:after {
+  outline: 0;
+  margin: 0;
+  padding: 0;
+
+  box-sizing: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  color: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-primary);
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1.5px;
+}
+
+a:visited {
+  color: #aa00ff;
+}
+
+a[target="_blank"]:after {
+  content: '↗';
+  color: inherit;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1140px;
+  height: 100vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 1fr 1fr 2fr 4fr 2.66fr 5.33fr 5.33fr 4.33fr 2.83fr 3.5fr 3.5fr 2.83fr 4.33fr 5.33fr 5.33fr 2.66fr 4fr 2fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 2fr 4fr 2.66fr 5.33fr 5.33fr 4.33fr 2.83fr 3.5fr 3.5fr 2.83fr 4.33fr 5.33fr 5.33fr 2.66fr 4fr 2fr 1fr 1fr;
+}
+
+/* .column {} */
+
+.column:nth-child(1) {
+  grid-area: 5 / 5 / span 1 / span 12;
+}
+
+.column:nth-child(2) {
+  grid-area: 6 / 5 / span 5 / span 12;
+}
+
+@media only screen and (min-width: 840px) {
+  .column:nth-child(1) {
+    grid-area: 7 / 7 / span 8 / span 4;
+  }
+
+  .column:nth-child(2) {
+    grid-area: 7 / 11 / span 8 / span 4;
+  }
+}
+
+h1,
+h2,
+h3 {
+  margin-top: .5em;
+  font-weight: bold;
+  cursor: default;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <div class="column">
-        <h1 data-reveal="Sklizkov Konstantin"></h1 >
+        <h1>Sklizkov Konstantin</h1 >
       </div>
       <div class="column">
-        <h2 data-reveal="Interactive Developer"></h2 >
-        <p data-reveal="Russia, Moscow"></p >
+        <h2>Interactive Developer</h2 >
+        <p>Russia, Moscow</p >
 
-        <h2 data-reveal="contacts:"></h2 >
+        <h2>contacts:</h2 >
         <p>
-          <a href="mailto:fearofcode@gmail.com" data-reveal="fearofcode@gmail.com"></a>
+          <a href="mailto:fearofcode@gmail.com">fearofcode@gmail.com</a>
         </p >
         <p>
-          <a target="_blank" href="https://www.linkedin.com/in/sklizkov/" data-reveal="LinkedIn↗"></a >
-          <a target="_blank" href="https://x.com/fearofcode" data-reveal="Twitter↗"></a >
-          <a target="_blank" href="https://github.com/sklizkov" data-reveal="GitHub↗"></a >
+          <a target="_blank" href="https://www.linkedin.com/in/sklizkov/">LinkedIn</a >
+          <a target="_blank" href="https://x.com/fearofcode">Twitter</a >
+          <a target="_blank" href="https://github.com/sklizkov">GitHub</a >
         </p>
 
-        <h2 data-reveal="work:"></h2>
-        <p data-reveal="Mail.ru&nbsp;Group ❯ DonationAlerts"></p>
-        <p data-reveal="Russia, Moscow"></p>
+        <h2>work:</h2>
+        <p>Mail.ru&nbsp;Group ❯ DonationAlerts</p>
+        <p>Russia, Moscow</p>
       </div>
     </div>
 
+    <!-- <script type="module" src="/src/main.js"></script> -->
   </body>
 </html>

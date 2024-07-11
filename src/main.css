@@ -70,15 +70,17 @@ a {
 a:hover {
   text-decoration: underline;
   text-decoration-style: dashed;
+  text-decoration-thickness: 1.5px;
 }
 
 a:visited {
   color: #aa00ff;
 }
 
-/* a[target="_blank"]:after {
+a[target="_blank"]:after {
   content: '↗';
-} */
+  color: inherit;
+}
 
 .wrapper {
   width: 100%;

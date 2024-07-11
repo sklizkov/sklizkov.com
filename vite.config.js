@@ -1,6 +1,6 @@
 // import { resolve } from 'path'
 import { defineConfig } from 'vite'
-import autoprefixer from 'autoprefixer';
+import autoprefixer from 'autoprefixer'
 
 
 export default defineConfig({
@@ -15,5 +15,7 @@ export default defineConfig({
         autoprefixer()
       ],
     }
-  }
+  },
+
+  plugins: [],
 })
